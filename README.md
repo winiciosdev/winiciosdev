@@ -7,7 +7,6 @@
 ##### Sou estudante universitário de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital, uma iniciativa do Porto Digital em parceria com a Universidade Tiradentes (UNIT). Tenho uma paixão platônica por tecnologia e desafios, o que me motiva a buscar sempre novos aprendizados e experiências no campo da programação. Possuo conhecimentos em linguagens e ferramentas como JavaScript, TypeScript, Python, SQL, PostgreSQL, HTML e CSS, com foco atual no estudo e desenvolvimento de projetos em Java. Estou sempre pronto para enfrentar desafios e criar soluções inovadoras. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-143a11199/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_wn.0liveira/profilecard/?igsh=MWY3eTlnenR5YjdlZA==)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winiciosdev&show_icons=true&bg_color=00000000)
 
